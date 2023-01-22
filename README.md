@@ -16,3 +16,4 @@ Trong thuật toán K-means clustering, chúng ta không biết nhãn (label) c�
 
 #### Ứng dụng:
 Nén dữ liệu (VD: xử lí ảnh)
+Phân loại dữ liệu
