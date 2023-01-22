@@ -13,3 +13,6 @@ Trong thuật toán K-means clustering, chúng ta không biết nhãn (label) c�
 4. Nếu việc gán dữ liệu vào từng cluster ở bước 2 không thay đổi so với vòng lặp trước đó thì ta dừng thuật toán.
 5. Cập nhật center cho từng cluster bằng cách lấy trung bình cộng của tất các các điểm dữ liệu đã được gán vào cluster đó sau bước 2.
 6. Quay lại bước 3.
+
+#### Ứng dụng:
+Nén dữ liệu (VD: xử lí ảnh)
