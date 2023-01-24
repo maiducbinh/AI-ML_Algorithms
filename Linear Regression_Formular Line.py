@@ -26,12 +26,12 @@ A = np.concatenate((A, ones), axis = 1)
 x = np.linalg.inv(A.transpose().dot(A)).dot(A.transpose()).dot(b)
 
 # data to draw
-x0 = np.array([1, 46]).T
+x0 = np.array([[1, 46]]).T
 y0 = x[1][0] + x0 * x[0][0]
 
 # test predicting data
 x_test = 12
-y_test = x.test * x[0][0] + x[1][0]
+y_test = x_test * x[0][0] + x[1][0]
 
 print(y_test)
 plt.plot(x0, y0)
