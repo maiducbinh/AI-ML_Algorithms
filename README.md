@@ -17,9 +17,17 @@ Trong thuật toán K-means clustering, chúng ta không biết nhãn (label) c�
 #### Ứng dụng:
 Nén dữ liệu (VD: xử lí ảnh)
 
-<img align="right" alt="Coding" width="1000" src="[https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://dunglai.github.io/public/post-assets/Kmeans/compress1.png)">
+![image](https://user-images.githubusercontent.com/105925707/215094530-2cb57eeb-66c4-4092-bbfb-14347953accd.png)
+
+![image](https://user-images.githubusercontent.com/105925707/215094551-e91c1bac-845f-4f7d-81e6-b896b1d9027b.png)
+
+Ảnh trên: 900 KB, ảnh dưới (K=16 color): 70KB
+
 
 Phân loại dữ liệu
+
+![image](https://user-images.githubusercontent.com/105925707/215094486-4b53c0a8-089f-48a0-a256-cd1384ffc9fa.png)
+
 
 ### Linear Regression
 #### Sơ lược:
