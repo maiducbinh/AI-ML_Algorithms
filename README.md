@@ -32,4 +32,5 @@ Phân loại dữ liệu
 ### Linear Regression
 #### Sơ lược:
 Hồi quy tuyến tính là một thuật toán cung cấp mối quan hệ tuyến tính giữa biến độc lập (independent variable) và biến phụ thuộc (dependent variable) để dự đoán kết quả của các sự kiện trong tương lai.
+
 ![output_5_1](https://user-images.githubusercontent.com/105925707/215088605-7dfd26d7-e909-4eba-ba84-dfe418bccd6c.png)
