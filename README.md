@@ -17,7 +17,7 @@ Trong thuật toán K-means clustering, chúng ta không biết nhãn (label) c�
 #### Ứng dụng:
 Nén dữ liệu (VD: xử lí ảnh)
 
-<img src="https://user-images.githubusercontent.com/105925707/215094530-2cb57eeb-66c4-4092-bbfb-14347953accd.png" height=250 width=400 /><img src="https://user-images.githubusercontent.com/105925707/215094551-e91c1bac-845f-4f7d-81e6-b896b1d9027b.png" height=250 width=400 />
+<img src="https://user-images.githubusercontent.com/105925707/215094530-2cb57eeb-66c4-4092-bbfb-14347953accd.png" height=250 width=300 /><img src="https://user-images.githubusercontent.com/105925707/215094551-e91c1bac-845f-4f7d-81e6-b896b1d9027b.png" height=250 width=300 />
 
 Ảnh trái: 900 KB, ảnh phải (K=16 color): 70KB
 
